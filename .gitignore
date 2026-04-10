@@ -1,0 +1,10 @@
+# Generated PDFs (keep resume_v1.pdf as example)
+*.pdf
+!resume_v1.pdf
+
+# Personal data
+resume_data.json
+vita.md
+
+# Claude Code project memory
+.claude/
