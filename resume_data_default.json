@@ -1,0 +1,144 @@
+{
+  "personal": {
+    "name": "Max Mustermann",
+    "title": "Full-Stack Developer  ·  Python / TypeScript / React",
+    "stack_line": "Python  ·  FastAPI  ·  TypeScript  ·  React  ·  PostgreSQL  ·  AWS",
+    "email": "max.mustermann@example.com",
+    "phone": "+49 170 1234567",
+    "address": "50667 Köln",
+    "github": "github.com/maxmustermann",
+    "born": "geb. 15.03.1991",
+    "status": "ledig",
+    "location": "Köln",
+    "date": "April 2026"
+  },
+  "terminal_text": "~/karriere $ python3 lebenslauf.py",
+  "jobs": [
+    {
+      "title": "Full-Stack Developer",
+      "company": "DataPulse GmbH, Köln",
+      "period": "seit März 2021",
+      "tasks": [
+        "Entwicklung und Betrieb einer SaaS-Plattform für Echtzeit-Datenanalyse mit Python, FastAPI und React - vom Feature-Entwurf bis zum AWS-Deployment.",
+        "Aufbau einer Event-Driven-Architektur mit Kafka und Celery zur Verarbeitung von über 2 Mio. Events pro Tag.",
+        "Migration der Legacy-REST-API von Flask auf FastAPI mit automatisierter OpenAPI-Dokumentation und 40% besserer Response-Time.",
+        "Aufbau der CI/CD-Pipeline mit GitHub Actions, Docker und Terraform - von manuellen Deployments zu vollautomatisierten Releases.",
+        "Mentoring eines Werkstudenten: Code-Reviews, Pair-Programming und gemeinsame Architekturskizzen am Whiteboard."
+      ]
+    },
+    {
+      "title": "Werkstudent Backend-Entwicklung",
+      "company": "LogiTech Solutions, Bonn",
+      "period": "04/2019 - 02/2021",
+      "tasks": [
+        "Entwicklung interner Microservices mit Django und PostgreSQL zur Automatisierung von Lagerprozessen.",
+        "Anbindung externer Logistik-APIs (DHL, DPD) und Aufbau eines zentralen Tracking-Dashboards mit React."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "M.Sc. Informatik",
+      "where": "Technische Hochschule Köln",
+      "when": "10/2018 - 09/2020",
+      "note": "Note 1,4. Masterarbeit (1,0): Anomalieerkennung in Zeitreihen mit Transformer-Modellen.",
+      "tag": "ABSCHLUSS",
+      "tag_style": "green"
+    },
+    {
+      "title": "B.Sc. Medieninformatik",
+      "where": "Technische Hochschule Köln",
+      "when": "10/2014 - 09/2018",
+      "note": "Note 1,8. Bachelorarbeit (1,3): Entwicklung eines interaktiven Dashboards zur Visualisierung von IoT-Sensordaten.",
+      "tag": "ABSCHLUSS",
+      "tag_style": "green"
+    },
+    {
+      "title": "Abitur",
+      "where": "Friedrich-Wilhelm-Gymnasium, Köln",
+      "when": "2014",
+      "note": "Note 1,9. Leistungskurse: Mathematik und Physik.",
+      "tag": "",
+      "tag_style": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": 0.90,
+      "color": "sky",
+      "hint": "täglich seit 2018, 3.10 bis 3.13"
+    },
+    {
+      "name": "FastAPI / Django",
+      "level": 0.85,
+      "color": "sky",
+      "hint": ""
+    },
+    {
+      "name": "TypeScript / React",
+      "level": 0.80,
+      "color": "orange",
+      "hint": "seit 2021 in Produktivprojekten"
+    },
+    {
+      "name": "PostgreSQL / Redis",
+      "level": 0.80,
+      "color": "green",
+      "hint": "Query-Optimierung, Caching-Strategien"
+    },
+    {
+      "name": "Kafka / Celery",
+      "level": 0.70,
+      "color": "indigo",
+      "hint": ""
+    },
+    {
+      "name": "AWS (ECS, Lambda, S3)",
+      "level": 0.75,
+      "color": "green",
+      "hint": "Infrastructure as Code mit Terraform"
+    },
+    {
+      "name": "Docker / CI-CD",
+      "level": 0.85,
+      "color": "green",
+      "hint": ""
+    },
+    {
+      "name": "Git",
+      "level": 0.80,
+      "color": "indigo",
+      "hint": ""
+    }
+  ],
+  "further_education": [
+    {
+      "desc": "PyCon DE 2025",
+      "detail": ""
+    },
+    {
+      "desc": "AWS Solutions Architect Associate 2024",
+      "detail": ""
+    },
+    {
+      "desc": "React Advanced Conference 2023",
+      "detail": ""
+    }
+  ],
+  "languages": [
+    {
+      "name": "Deutsch",
+      "level": "Muttersprache"
+    },
+    {
+      "name": "Englisch",
+      "level": "Verhandlungssicher (C1)"
+    },
+    {
+      "name": "Spanisch",
+      "level": "Grundkenntnisse (A2)"
+    }
+  ],
+  "profile": "Full-Stack Developer mit 5 Jahren Erfahrung in Python und TypeScript. Schwerpunkte: Backend-Architektur, Event-Driven-Systeme und Cloud-Infrastruktur. Aus dem akademischen ML-Umfeld kommend, bringe ich ein starkes Gespür für Datenmodellierung und Performance mit. Teamplayer mit Freude an Clean Code, Wissensteilung und iterativer Produktentwicklung."
+}
